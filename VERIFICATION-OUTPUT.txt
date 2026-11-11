@@ -1,0 +1,21 @@
+Verification performed in the creation environment.
+
+Main application:
+Ticket number: 1001
+Allocated slot: floor 0, slot 2
+Total fee: Rs 150.00
+Available slots: 9/9
+
+Task 3:
+[0, 0]
+[0, 1]
+[1, 0]
+null
+true false false
+[0, 1]
+
+Task 8:
+TwoWheeler TN01A1 -> Rs 30.0
+Car TN02B2 -> Rs 90.0
+ElectricCar TN03C3 -> Rs 210.0
+true
